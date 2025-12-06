@@ -12,3 +12,10 @@ Todos os códigos estão comentados conforme o aprendizado de cada padrão, para
 - Baeldung (Possui uma série de artigos explicando sobre o tema) - [Baeldung website](https://www.baeldung.com/)
 - Refactoring.guru (Possui explicações mais detalhadas de alguns dos padrões) - [Refactoring.guru website](https://refactoring.guru/pt-br/design-patterns/java)
 - ChatGPT (Utilizado como corretor e suporte nos códigos, a fim de criar códigos que abordam cada padrão corretamente) - [ChatGPT](https://chatgpt.com/)
+
+## Banco de Dados
+Está pasta contém todo o conteúdo de estudo de bancos relacionais e não relacionais. É uma parte desses conteúdos apenas para relembrá-los e aplicá-los na linguagem Java. Existem um pacote para banco de dados não relacionais e um pacote para banco de dados relacional. As ferramentas que foram utilizadas neste projeto e as referências são:
+- PostgreSQL - Banco de dados relacional
+- MongoDB - Banco de dados não relacional
+- Google - Para buscar sobre consultas e gramáticas - [Google](google.com)
+- ChatGPT - Usado como apoio, principalmente no tutorial de como rodar os códigos sem a instalação do Maven - [ChatGPT](chatgpt.com)
